@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/mushroom forest.unity
+    guid: 299af914001470e458cc072ada65b05c
   m_configObjects: {}
